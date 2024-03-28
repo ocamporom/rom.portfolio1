@@ -281,11 +281,6 @@ button{
   list-style-type: none;
   display: inline-flex;
 }
-.clickable{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
 
 
 
